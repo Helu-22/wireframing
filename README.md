@@ -1,4 +1,4 @@
-# wireframing
+# wireframing.
 
 ## Introduction
 
@@ -28,3 +28,46 @@ This involves deciding where specific content (text, images, videos, etc.) shoul
 Wireframes should outline interactive features like buttons, input fields, dropdowns, and modals, even if they're not functional yet.
 
 *Example:* Indicating a search bar and a login form with placeholder boxes and labels.
+
+## Types of Wireframes
+
+Wireframes can be broadly categorized into two types: **Low-Fidelity** and **High-Fidelity**. Each serves a unique purpose at different stages of the design process.
+
+### Low-Fidelity Wireframes
+
+These are basic visual representations, often created using simple shapes and placeholders. They are quick to produce and ideal for brainstorming and early-stage planning.
+
+**Characteristics:**
+- Simple, sketch-like appearance
+- Black-and-white or grayscale
+- Focus on layout and structure
+- Minimal detail; no styling or branding
+
+**When to Use:**
+- During ideation or early planning
+- To gather feedback on layout and flow
+- When testing user interaction paths
+
+### High-Fidelity Wireframes
+
+These are detailed and realistic representations of the final product. They include colors, fonts, images, and sometimes interactivity.
+
+**Characteristics:**
+- Closely resembles the final design
+- Includes brand elements, fonts, and icons
+- Can be interactive (especially in tools like Figma)
+- Useful for stakeholder presentations
+
+**When to Use:**
+- Later stages of design
+- Before development handoff
+- When testing usability with real users
+
+---
+
+## What Type of Wireframe is This?
+
+
+
+This wireframe is an example of a **High-Fidelity Wireframe**. It includes detailed content placement, branding colors, and interactive elements like buttons and dropdowns. It is suitable for final validation before development begins.
+
