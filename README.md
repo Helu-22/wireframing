@@ -141,4 +141,31 @@ Wireframes are easy to understand for non-technical stakeholders. They help stak
 
 ---
 
+## Wireframing in Practice
+
+### Real-World Scenario: Improving a Pharmacy Finder App
+
+During the early stages of designing a "Pharmacy Finder and Medicine Delivery Platform," our team created a low-fidelity wireframe in Figma to outline the core features: search, pharmacy profiles, medicine ordering, and prescription uploads.
+
+#### Identified Usability Issues
+While testing the wireframe with a few users, we noticed the following:
+- Users struggled to understand the difference between “Search by Medicine” and “Search by Pharmacy.”
+- The call-to-action button to upload prescriptions was placed at the bottom of the page, causing many users to miss it.
+- The cart and checkout flow was unclear, leading to confusion about whether the order was placed successfully.
+
+#### Resolution
+Based on feedback:
+- We merged the search options into a single, smart search bar that handled both cases dynamically.
+- The prescription upload button was moved to a more prominent, central location at the top of the screen.
+- We added a step-by-step progress indicator for the checkout process to clearly guide users from cart to payment.
+
+#### Impact on the Final Product
+By identifying and addressing these issues early:
+- The design became more intuitive and accessible.
+- Users completed tasks faster and with fewer errors during testing.
+- Developers had a clear roadmap, reducing rework and development time.
+
+### Summary
+
+Wireframing played a critical role in identifying potential usability challenges early in the project. It allowed the team to iterate quickly and align on solutions before any code was written. Ultimately, it ensured that the product was user-friendly, functional, and aligned with both business and user goals.
 
